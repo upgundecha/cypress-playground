@@ -7,3 +7,9 @@ Assertions
 
 * `.should('exist')`
 * `.should('not.exist')`
+* `.should('visible')`
+* `.should('not.be.visible')`
+* `.should('have.class', 'list-item-selected')`
+* `.should('have.css)', 'background-color', 'blue')`
+* `.should('contain')`
+* `.should('not.contain')`
