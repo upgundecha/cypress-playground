@@ -13,3 +13,7 @@ Assertions
 * `.should('have.css)', 'background-color', 'blue')`
 * `.should('contain')`
 * `.should('not.contain')`
+
+Debug Script
+
+* `.debug();`
